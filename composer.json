@@ -1,7 +1,6 @@
 {
-    "name": "sylius/sylius",
+    "name": "bodnar1212/sylius",
     "type": "library",
-    "version": "v1.8.11-dev",
     "description": "E-Commerce platform for PHP, based on Symfony framework.",
     "homepage": "https://sylius.com",
     "license": "MIT",
