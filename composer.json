@@ -1,5 +1,5 @@
 {
-    "name": "sylius/sylius",
+    "name": "bodnar1212/sylius",
     "type": "library",
     "version": "v1.10.0-dev",
     "description": "E-Commerce platform for PHP, based on Symfony framework.",
